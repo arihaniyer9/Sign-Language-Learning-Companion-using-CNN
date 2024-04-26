@@ -178,7 +178,7 @@ So, to handle above cases I made three different classifiers for classifying the
 
 The GUI(Graphical User Interface) of the application is as shown below :
 
-![GUI](images/gui.png)
+![GUI](images/gui.jpg)
 
 Flow Chart for Gesture Classification is as following :
 
